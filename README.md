@@ -1,4 +1,4 @@
-# Diagrama y Script
+# Diagrama y Script :technologist:
 Módulo 6: Base de datos
 
 ## :pushpin: Resumen de entregables:
